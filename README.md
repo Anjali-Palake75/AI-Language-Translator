@@ -85,9 +85,7 @@ python translator_app.py
 ## 👤 Author
 
 * **Name:** Anjali Vaibhav Palake
-* **Roll No:** 25143075
-* **Class:** SYIT (Batch I4)
-* **Subject:** Python / AI Mini Project
 * **Task:** Language Translator Application (Task 1)
 
 ---
+
